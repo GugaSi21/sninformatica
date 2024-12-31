@@ -147,7 +147,7 @@ document.getElementById("whatsapp-button").addEventListener("click", function ()
     message += `*Total do Pedido: R$ ${total.toFixed(2)}*\n\nPor favor, confirme o pedido. Obrigado!`;
 
     // Codifica a mensagem para o link do WhatsApp
-    this.href = `https://wa.me/5569993073838?text=${encodeURIComponent(message)}`;
+    this.href = `https://wa.me/5566992634123?text=${encodeURIComponent(message)}`;
 });
 
 
